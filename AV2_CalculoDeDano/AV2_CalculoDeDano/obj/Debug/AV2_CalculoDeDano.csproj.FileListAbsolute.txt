@@ -1,0 +1,9 @@
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\bin\Debug\AV2_CalculoDeDano.exe.config
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\bin\Debug\AV2_CalculoDeDano.exe
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\bin\Debug\AV2_CalculoDeDano.pdb
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.csprojResolveAssemblyReference.cache
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.Form1.resources
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.Properties.Resources.resources
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.csproj.GenerateResource.Cache
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.exe
+c:\users\pedro.castro.nave0\documents\visual studio 2015\Projects\AV2_CalculoDeDano\AV2_CalculoDeDano\obj\Debug\AV2_CalculoDeDano.pdb
